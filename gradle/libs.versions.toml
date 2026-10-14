@@ -3,7 +3,7 @@ morphe-patcher = "1.15.1"
 #noinspection GradleDependency
 smali = "d92701d947"
 gson = "2.14.0"
-jelf = "0.12.0"
+jelf = "0.9.0"
 
 [libraries]
 gson = { module = "com.google.code.gson:gson", version.ref = "gson" }
