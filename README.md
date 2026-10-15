@@ -15,4 +15,4 @@ Patches for some apps I use myself.
      If you wish to manually keep this list updated then remove the PATCHES_START and PATCHES_END 
      comment blocks entirely. -->
 
-#### A list of your patches will automatically be shown here after your first patches release is created.
+<!-- PATCHES_END -->
