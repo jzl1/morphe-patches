@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/jzl1/morphe-patches/compare/v1.2.0...v1.3.0) (2026-11-08)
+
+### ✨ New Features
+
+* **juicessh:** add Unlock Pro patch ([76a4098](https://github.com/jzl1/morphe-patches/commit/76a409864eeb8e72ab11cd6620388c39ec473736))
+* **ltediscovery:** add Unlock Pro and opt-in Donate patches ([abb1a13](https://github.com/jzl1/morphe-patches/commit/abb1a136c810913c94f2b1a29432775373ec46f6))
+
 ## [1.2.0](https://github.com/jzl1/morphe-patches/compare/v1.1.1...v1.2.0) (2026-11-05)
 
 ### ✨ New Features
