@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/jzl1/morphe-patches/compare/v1.3.0...v1.4.0) (2026-11-08)
+
+### ✨ New Features
+
+* **yamby:** add Pro unlock and hide Pro row patches ([7050077](https://github.com/jzl1/morphe-patches/commit/7050077cbeff1c7eb15abb72ccfd4e4f1a367af9))
+
 ## [1.3.0](https://github.com/jzl1/morphe-patches/compare/v1.2.0...v1.3.0) (2026-11-08)
 
 ### ✨ New Features

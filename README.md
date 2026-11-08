@@ -7,7 +7,7 @@ Patches for some apps I use myself.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.3.0](https://github.com/jzl1/morphe-patches/releases/tag/v1.3.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;11 patches total
+> **[v1.4.0](https://github.com/jzl1/morphe-patches/releases/tag/v1.4.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;13 patches total
 <details open>
 <summary>📦 Network Signal Guru&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
@@ -41,6 +41,22 @@ Patches for some apps I use myself.
 | [Neutralize tamper fork bomb](#neutralize-tamper-fork-bomb) | Stops the native anti-tamper response that spawns unbounded threads and crashes the app a few seconds after launch on a repackaged build. |  |
 | [Skip update attestation](#skip-update-attestation) | Stops the app updater from sending the client key and Android Keystore attestation chain to analiti.com during its version check. Other backend calls are unaffected. |  |
 | [Unlock Expert](#unlock-expert) | Unlocks the Expert tier and disables the PairIP licence check. |  |
+
+</details>
+
+<details open>
+<summary>📦 Yamby&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 2.1.0.11 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Hide Pro row](#hide-pro-row) | Removes the Yamby Pro row from Settings. Pro features remain unlocked by the Unlock Pro patch. |  |
+| [Unlock Pro](#unlock-pro) | Unlocks all Yamby Pro features by seeding a local licence code, making the client-side HMAC comparator accept it, and forcing the cached list-animation entitlement flag. No Play purchase is required. |  |
 
 </details>
 
